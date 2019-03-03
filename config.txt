@@ -1,0 +1,6 @@
+owner=420212098807627780
+prefix=3
+game= Thunder.
+stayinchannel=true
+songinstatus=false
+token=NTUxNjQ3NTczNTUxNjExOTE2.D10Bog.L6-iIJaxze4izL6_NROvA9jNtUo
